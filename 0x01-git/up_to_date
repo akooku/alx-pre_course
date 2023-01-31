@@ -1,1 +1,1 @@
-echo "Update readme file"
+git fetch --all
